@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionAppSample.AppH
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionAppSample.ServiceDefaults", "AzureFunctionAppSample.ServiceDefaults\AzureFunctionAppSample.ServiceDefaults.csproj", "{0ABB76A3-6EAF-4DD4-92FB-07687B2A41FC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionSample.Blazor", "AzureFunctionSample.Blazor\AzureFunctionSample.Blazor.csproj", "{D2F61121-F2D7-4F1E-8748-8E519371DE01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0ABB76A3-6EAF-4DD4-92FB-07687B2A41FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ABB76A3-6EAF-4DD4-92FB-07687B2A41FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ABB76A3-6EAF-4DD4-92FB-07687B2A41FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F61121-F2D7-4F1E-8748-8E519371DE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F61121-F2D7-4F1E-8748-8E519371DE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F61121-F2D7-4F1E-8748-8E519371DE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F61121-F2D7-4F1E-8748-8E519371DE01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
